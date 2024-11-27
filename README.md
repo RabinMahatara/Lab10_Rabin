@@ -19,7 +19,7 @@ This is a web-based project for **MEDIART 213**, containing HTML, CSS, images, a
 
 1. Download from the repository link below:
    ```bash
-   https://github.com/RabinMahatara/MEDIART-213.git
+   https://github.com/RabinMahatara/Lab10_Rabin.git
 2. Navigate to the Lab10_Rabin folder.
 3. Ensure the folder structure remains intact after downloading.
 4. Open any of the HTML files (e.g., index.html) in a browser by double-clicking it or dragging it into the browser window.
